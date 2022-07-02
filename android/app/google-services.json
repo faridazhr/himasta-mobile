@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401083162799",
+    "project_id": "himastamobile",
+    "storage_bucket": "himastamobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401083162799:android:d0b1d2d30e73fdb0ecb45a",
+        "android_client_info": {
+          "package_name": "com.himasta.himasta_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401083162799-2tn0hl7qupt7bhtklk22i0a9r9achi6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvpv5KxncEQ-YDXfs0Cf4AG4DYwKgg99w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401083162799-2tn0hl7qupt7bhtklk22i0a9r9achi6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+Himasta Mobile adalah aplikasi yang dibuat untuk
+Badan Eksekutif Himpunan Statistika 
+FMIPA Universitas Padjadjaran
+
+Badan Eksekutif Himasta FMIPA Unpad 
+yang kemudian disebut BE Himasta FMIPA Unpad, 
+adalah lembaga tinggi dalam kehidupan lembaga 
+kemahasiswaan tingkat Program Studi 
+yang bersifat eksekutif.
+
+Aplikasi Himasta Mobile merupakan
+gabungan dari platform media sosial
+yang dimiliki oleh BE Himasta Unpad,
+disatukan dalam sebuah aplikasi yang
+menjadikan seluruh informasi Himasta
+FMPA Unpad menjadi satu dalam aplikasi
+bernama Himasta Mobile.
