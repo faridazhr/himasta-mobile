@@ -8,7 +8,7 @@
   <img align="center" src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/ic_himastamobile1.png"  width="500"></img>
 <br>
 <h3 align="center">----</h3>
-<p align="center">Mobile Apps yang Dikembangkan untuk Mempermudahkan Kegiatan Sehari-hari Warga Himasta FMIPA Unpad</p>
+<p align="center">Aplikasi Mobile yang Dikembangkan untuk Mempermudahkan Kegiatan Sehari-hari Warga Himasta FMIPA Unpad</p>
 <p align="center">Mobile Apps Developed to Facilitate Himasta FMIPA Unpad's Daily Activities</p>
 </h1>
 
