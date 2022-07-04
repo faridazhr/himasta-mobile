@@ -32,10 +32,10 @@ menjadikan seluruh informasi Himasta FMPA Unpad menjadi satu dalam aplikasi bern
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(5).jpg" width="210">
-  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(6).jpg" width="210">
-  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(7).jpg" width="210">
-  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(8).jpg" width="210">
+  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(5).jpg" width="200">
+  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(6).jpg" width="200">
+  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(7).jpg" width="200">
+  <img src="https://raw.githubusercontent.com/faridazhr/himasta-mobile/main/assets/himasta_mobile-sample%20(8).jpg" width="200">
 </p>
 
 <p align="center">
